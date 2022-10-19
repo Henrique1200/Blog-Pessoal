@@ -42,21 +42,21 @@ function Footer() {
         </Box>
         <Box className="icons" display="flex" justifyContent="center">
           <a
-            href="https://www.instagram.com/pdro_camargo/"
+            href="https://www.instagram.com/henrique_delbo/"
             className="icon icon--instagram"
             target="_blank"
           >
             <i className="ri-instagram-line"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/pedro-camargo15/"
+            href="https://www.linkedin.com/in/henrique-leonardo"
             className="icon icon--linkedin"
             target="_blank"
           >
             <i className="ri-linkedin-line"></i>
           </a>
           <a
-            href="https://github.com/Pddro1"
+            href="https://github.com/Henrique1200"
             className="icon icon--github"
             target="_blank"
           >
@@ -82,7 +82,7 @@ function Footer() {
             style={{ color: "white" }}
             align="center"
           >
-            Pedro Henrique
+            Henrique Delbo
           </Typography>
         </Box>
       </Box>

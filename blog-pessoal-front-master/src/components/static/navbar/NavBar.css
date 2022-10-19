@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #003566 !important;
+}
+
+.menu{
+    width: 250px;
+    background-color: #003566;
+}
+
+.cursor {
+    text-decoration: none;
+    color: #ffd60a;
+    font-size: 18px;
+    transition: transform 1s;
+    cursor: pointer;
+}
+
+
+.cursor:hover {
+    transform: scale(1.2);
+    color: white;
+}
+
+.cursor:active {
+    color: #eceaea;
+}
+
+.text-decorator-none {
+    text-decoration: none;
+    color: #fff;
+}
+

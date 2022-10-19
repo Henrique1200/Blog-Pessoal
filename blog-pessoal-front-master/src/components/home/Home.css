@@ -1,0 +1,35 @@
+.text-decorator-none{
+  text-decoration: none;
+}
+
+.caixa{
+  background-image: url('https://images4.alphacoders.com/936/936378.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: auto;
+  width: 100%;
+}
+
+.grid1{
+  width: 100%;
+  max-width: 600px;
+  
+}
+
+
+.top {
+  color: white !important;
+
+}
+
+
+.botaoPost{
+  background-color: #054A91 !important;
+  color: white !important;
+}
+
+
+.postagens{
+  background-color: white;
+}

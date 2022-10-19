@@ -12,7 +12,7 @@ import useLocalStorage from 'react-use-localstorage';
 
 
 function Login() {
-  const token2 = useLocalStorage("token")
+  const [token, setToken] = useLocalStorage('token');
   let navigate = useNavigate()
   const dispatch = useDispatch();
   const [token, setToken] = useState('')

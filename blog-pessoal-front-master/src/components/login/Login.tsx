@@ -12,7 +12,7 @@ import { toast } from "react-toastify";
 
 
 function Login() {
-
+  const token2 = useLocalStorage("token")
   let navigate = useNavigate()
   const dispatch = useDispatch();
   const [token, setToken] = useState('')
